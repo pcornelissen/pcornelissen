@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pcornelissen
-- 👀 I’m interested in JVM based development, cloud
+- 👀 I’m interested in JVM based development, cloud and work as software architect for (ARS)[https://ars.de]
 - 🌱 I’m always learning 
-- 💞️ I’m looking to collaborate on cloud projects
+- 💞️ I’m looking to collaborate on cloud projects or anything that interests me
 - 📫 How to reach me: cornelis@pcornelissen.de
 
 <!---
